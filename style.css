@@ -1,0 +1,61 @@
+
+.heading{
+    
+    margin-left: 110px;
+    padding: 20px;
+}
+
+.page{
+    height: 820px;
+    width: 600px;
+    background-color: rgba(230, 178, 75, 0.647);
+    margin-left: 300px;
+    border-radius: 30px;
+    border: solid 3px black;
+  
+
+}
+
+input{
+    margin: 25px;
+    margin-left: 20px;
+}
+
+.all{
+    margin-left: 100px;
+}
+
+#rollno{
+    margin-left: 135px;
+}
+#sname{
+    margin-left: 100px;    
+}
+#fname{
+    margin-left: 108px;
+}
+#mobileno{
+    margin-left: 120px;
+}
+#email{
+    margin-left: 133px;
+}
+#password{
+    margin-left: 124px;
+}
+#gender{
+    margin-left: 138px;
+}
+#city{
+    margin-left: 155px;
+}
+#address{
+    margin-left: 126px;
+}
+#btn{
+    margin: 20px;
+    margin-left: 100px;
+    height: 30px;
+    width: 180px;
+    border-radius: 30px;
+}
